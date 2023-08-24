@@ -8,8 +8,8 @@ enableEmoji = true
 [params]
     name = "Séverine RIVOLLIER"
     description = "Formatrice en mathématiques et traitement d'images"
-    phone = "SIRET: 53259133600021"
-    address = ""
+    phone = "Tel: [+33] (0)686 955 282" 
+    #address = "SIRET: 53259133600021"
     year = 2023
     avatar = "images/severine.jpg"
     avatarclass = "rounded"
