@@ -5,11 +5,9 @@ title = 'Séverine Rivollier - Formation continue - Traitement et analyse des im
 theme=["hugo-cloak-email", "hugo-initio"]
 enableEmoji = true
 
-
 [params]
     name = "Séverine RIVOLLIER"
     description = "Formatrice en mathématiques et traitement d'images"
-    email = "{{< cloakemail address='severine.rivollier@gmail.com' >}}"
     phone = "SIRET: 53259133600021"
     address = ""
     year = 2023
@@ -44,13 +42,13 @@ enableEmoji = true
     footer = true
     sharethis = false
     network = ""
-[[params.social]]
-	title = "email"
-	url = "mailto:severine.rivollier@gmail.com"
-    icon = "fas fa-envelope-square"
-    footer = false
-    sharethis = true
-    network = "email"
+#[[params.social]]
+#	title = "email"
+#	url = "mailto:severine.rivollier@gmail.com"
+#    icon = "fas fa-envelope-square"
+#    footer = false
+#    sharethis = true
+#    network = "email"
 [[params.social]]
 	title = "linkedin"
 	url = "https://www.linkedin.com/in/s%C3%A9verine-rivollier-b9601226b/"
