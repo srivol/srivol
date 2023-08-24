@@ -2,14 +2,14 @@ baseURL = 'http://example.org/'
 languageCode = 'fr-fr'
 title = 'Séverine Rivollier - Formation continue - Traitement et analyse des images - Mathématiques'
 
-theme="hugo-initio"
+theme=["hugo-cloak-email", "hugo-initio"]
 enableEmoji = true
 
 
 [params]
     name = "Séverine RIVOLLIER"
     description = "Formatrice en mathématiques et traitement d'images"
-    email = "severine.rivollier@gmail.com"
+    email = "{{< cloakemail address='severine.rivollier@gmail.com' >}}"
     phone = "SIRET: 53259133600021"
     address = ""
     year = 2023
