@@ -1,0 +1,60 @@
+baseURL = 'http://example.org/'
+languageCode = 'fr-fr'
+title = 'Séverine Rivollier - Formation continue - Traitement et analyse des images - Mathématiques'
+
+theme="hugo-initio"
+enableEmoji = true
+
+
+[params]
+    name = "Séverine RIVOLLIER"
+    description = "Formatrice en mathématiques et traitement d'images"
+    email = "severine.rivollier@gmail.com"
+    phone = "SIRET: 53259133600021"
+    address = ""
+    year = 2023
+    avatar = "images/severine.jpg"
+    avatarclass = "rounded"
+    background = ""
+    banner = "images/bg_head.jpg"
+    favicon = "images/grad.svg"
+    DateForm = "2023"
+    author = "Séverine Rivollier"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownloads = false
+    showClients = true
+
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+
+[[params.social]]
+	title = "github"
+	url = "https://github.com/srivol"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:severine.rivollier@gmail.com"
+    icon = "fas fa-envelope-square"
+    footer = false
+    sharethis = true
+    network = "email"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/s%C3%A9verine-rivollier-b9601226b/"
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = false
+    network = "linkedin"

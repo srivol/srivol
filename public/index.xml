@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Séverine Rivollier - Formation continue - Traitement et analyse des images - Mathématiques</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Séverine Rivollier - Formation continue - Traitement et analyse des images - Mathématiques</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction au traitement des images</title>
+      <link>http://example.org/home/services/service2/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/services/service2/</guid>
+      <description>&lt;p&gt;Introductions aux concepts mathématiques et informatique du traitement des images.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Téléchargez le cours de maths</title>
+      <link>http://example.org/home/downloads/download1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/downloads/download1/</guid>
+      <description>Cours et exercices de mathématiques post-bac.</description>
+    </item>
+    
+    <item>
+      <title>Traitement d&#39;images avancé</title>
+      <link>http://example.org/home/services/service6/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/services/service6/</guid>
+      <description>&lt;p&gt;Vous avez les bases du traitement des images mais vous voulez approfondir les sujets.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Remise à niveau en mathématiques</title>
+      <link>http://example.org/home/services/service1/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/services/service1/</guid>
+      <description>&lt;p&gt;Cours de mathématiques tous niveaux, à partir de 5 personnes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Formation à la carte</title>
+      <link>http://example.org/home/services/service4/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/services/service4/</guid>
+      <description>&lt;p&gt;Vous avez des besoins spécifiques et vous souhaitez focaliser la formation sur ceux-ci. J&amp;rsquo;étudie avec vous les possibilités pour m&amp;rsquo;adapter au mieux à vos attentes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Formation longue durée</title>
+      <link>http://example.org/home/services/service7/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/services/service7/</guid>
+      <description>&lt;p&gt;D&amp;rsquo;une durée de 40 à 80 heures, ces formations peuvent s&amp;rsquo;étaler sur plusieurs mois afin de s&amp;rsquo;adapter à tous les emplois du temps.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A propos</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Après deux master en mathématiques et un doctorant dans la spécialité image, vision et signal, j&amp;rsquo;ai créé pour auto-entreprise pour répondre aux besoins de formation professionnelle.
+Mon parcours académique  Master actuariat et ingénierie mathématique en assurance et finance (Université de Rouen) Master mathématiques appliquées (Université Jean Monnet, Saint-Etienne) Doctorat spécialité image, vision, signal (Ecole des Mines, Saint-Etienne)  Cliquez pour voir ma thèse en ligne.    Enseignements: cours et travaux dirigés Une pédagogie adaptée au niveau de chacun !</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/subheader/</guid>
+      <description>Je m&amp;rsquo;adapte à vos besoins en formation.</description>
+    </item>
+    
+  </channel>
+</rss>
