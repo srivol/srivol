@@ -3,6 +3,7 @@ menu = "main"
 title = "A propos"
 type = "about"
 weight = 10
+keywords     = "python, mathématiques, matlab, traitement d'images, computer vision, numpy, scipy, scikit-image"
 +++
 
 Après deux master en mathématiques et un doctorant dans la spécialité image, vision et signal, j'ai créé pour auto-entreprise pour répondre aux besoins de formation professionnelle.
