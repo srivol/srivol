@@ -42,6 +42,10 @@ enableEmoji = true
     footer = true
     sharethis = false
     network = ""
+
+[params.google.analytics]
+    trackerID = "G-42KG23QSJ3"
+
 #[[params.social]]
 #	title = "email"
 #	url = "mailto:severine.rivollier@gmail.com"
