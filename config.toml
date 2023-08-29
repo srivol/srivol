@@ -44,7 +44,7 @@ enableEmoji = true
     network = ""
 
 [params.google.analytics]
-    trackerID = "G-42KG23QSJ3"
+    trackerID = "G-KM8LKBLY68"
 
 #[[params.social]]
 #	title = "email"
